@@ -1,6 +1,4 @@
 # Data_projects_TripleTen
-Here are a sample of things I am working on at triple ten
-# Data_projects_TripleTen
 
 This repository contains a collection of data projects completed during the course. Each project demonstrates data analysis, visualization, or other data-related skills.
 
